@@ -12,6 +12,7 @@ Features Used:
     Zero Crossing
     Spectral Flatness
     Tempo
+I have written my own algorithims to calculate these features from the audio waveform using a fast fourier transform. 
 
 By adjusting the weights for the given features, I was able to find certain weights that gave me appropriate results, although these results are subjective and might differ in opinion from person to person.
 
