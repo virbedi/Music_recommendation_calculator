@@ -15,4 +15,4 @@ Features Used:
 
 By adjusting the weights for the given features, I was able to find certain weights that gave me appropriate results, although these results are subjective and might differ in opinion from person to person.
 
-Using information from the Lerch Textbook (pg154) I decided to use Temporal Characteristics (tempo) and Dynamic characteristics since the book states that classification with common characteristcs such as intensity have proved to give good results. I gave the most weight to Tempo and Zero Crossing rate and lesser weight to the centroid and amplitude variance.
+Using information from Audio Content Analysis by Alexander Lerch, I decided to use Temporal Characteristics (tempo) and Dynamic characteristics since the book states that classification with common characteristcs such as intensity have proved to give good results. I gave the most weight to Tempo and Zero Crossing rate and lesser weight to the centroid and amplitude variance.
